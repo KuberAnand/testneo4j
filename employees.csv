@@ -1,0 +1,5 @@
+employeeId:ID,name,role
+1,Alice,Manager
+2,Bob,Employee
+3,Charlie,Intern
+4,Diana,Employee

@@ -1,0 +1,5 @@
+policyId:ID,name,description,effectiveDate
+1,Leave Policy,Details about leave policies,2023-01-01
+2,Domestic Travel Policy,Details about domestic travel policies,2023-01-01
+3,Work from Home Policy,Details about work from home policies,2023-01-01
+4,Expense Reimbursement Policy,Details about expense reimbursement,2023-01-01
